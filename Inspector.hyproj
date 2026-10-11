@@ -1,0 +1,13 @@
+format = 2
+name = "File Inspector"
+version = "0.1.0"
+type = "exec"
+output = "inspector.exec"
+sources = ["src/Program.hy"]
+project_references = []
+
+[package]
+id = "os.australis.Inspector"
+description = "Minimal Australis executable"
+authors = ["Aurora Softwares"]
+license = "MIT"
