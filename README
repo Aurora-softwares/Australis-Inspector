@@ -4,7 +4,7 @@ Inspector is an AUEX application for HyFS and HyFS 2 volumes. It accepts an
 absolute path from the shell. With no argument it inspects `/hello.txt`.
 
 ```text
-inspector /Bin/inspector.exec
+inspector /System/Bin/inspector.exec
 inspector /System
 ```
 
